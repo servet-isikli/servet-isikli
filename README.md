@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### "My GitHub account has been moved. Here is the new address: <a href="https://www.github.com/servetisikli>github.com/servetisikli</a>" 👋
+### "My GitHub account has been moved. Here is the new address: github.com/servetisikli</a>" 👋
 
 <!--
 **servet-isikli/servet-isikli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
